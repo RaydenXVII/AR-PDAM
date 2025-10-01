@@ -16,7 +16,7 @@ Proyek ini dibangun menggunakan **Unity Editor versi 6000.2.0f1** dengan dukunga
 - **Kompatibilitas Android**: Build aplikasi difokuskan untuk perangkat Android.  
 
 ## 4. Teknologi yang Digunakan  
-- **Unity Editor**: 6000.2.0f1  
+- **Unity Editor**: 6000.2.0f1 (**WAJIB**)
 - **AR Foundation**: (versi sesuai kebutuhan)  
 - **ARCore XR Plugin**: integrasi AR pada Android  
 - **Android SDK & NDK**: sesuai konfigurasi Unity  
