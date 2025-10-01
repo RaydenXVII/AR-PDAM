@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: IPAM KP
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4993256281616145665
+  m_GuidHigh: 13317235223276319150
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4826242604133013182
+      m_GuidHigh: 17031632303886737314
+    m_SerializedTextureGuid:
+      m_GuidLow: 8175255820709207424
+      m_GuidHigh: 1601495138008237546
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Aerator
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5658278460379623175
+      m_GuidHigh: 5985192696740786585
+    m_SerializedTextureGuid:
+      m_GuidLow: 14574833567419635745
+      m_GuidHigh: 13377031830786786840
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Clarifier
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5561242436488058902
+      m_GuidHigh: 4883166295389276049
+    m_SerializedTextureGuid:
+      m_GuidLow: 4955281857600612114
+      m_GuidHigh: 3745276005405436347
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Disinfeksi
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5043076352009894451
+      m_GuidHigh: 1634679135217443754
+    m_SerializedTextureGuid:
+      m_GuidLow: 9837026629291749093
+      m_GuidHigh: 2072516421494709448
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Distribusi
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5667879742090801602
+      m_GuidHigh: 16122973590264428677
+    m_SerializedTextureGuid:
+      m_GuidLow: 5288606113266983369
+      m_GuidHigh: 10431621787437754457
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Filtrasi
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5215101380129011826
+      m_GuidHigh: 11545747541348204189
+    m_SerializedTextureGuid:
+      m_GuidLow: 7004226513491770493
+      m_GuidHigh: 2166906561265012667
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Intake
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5223842645667432823
+      m_GuidHigh: 8579856827038687922
+    m_SerializedTextureGuid:
+      m_GuidLow: 8062608063220768116
+      m_GuidHigh: 8452629901710692136
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Koagulasi
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5227892118502833165
+      m_GuidHigh: 14395832975731330461
+    m_SerializedTextureGuid:
+      m_GuidLow: 17015821737846629888
+      m_GuidHigh: 7979500708464445720
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Prasedimentasi
+    m_Texture: {fileID: 0}
